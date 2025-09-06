@@ -5,7 +5,7 @@ Rotina para construção e atualização do banco de índice h5 na área da saú
 
 Última atualização: 06/09/2025 Contato: ivanzricardo@gmail.com
 
-Passo 1: Gerar uma lista de páginas (url) de busca no google scholar para cada periódico indicado na última publicação do Qualis (201/-2020).
+Passo 1: Gerar uma lista de páginas (url) de busca no google scholar para cada periódico indicado na última publicação do Qualis (2017-2020).
 Usar o código em python disponível em https://colab.research.google.com/drive/1xDQcNQvGk0LWT19pMT6s3b36z3Ikuy_t?usp=sharing
 
 Passo 2: A partir de um arquivo de texto (.txt) com a lista de todas as urls gerada, acessar e salvar o código fonte da página em html. Obs: isso é necessário por conta do anti-bot do google que não permite a raspagem direta dos dados nas páginas
