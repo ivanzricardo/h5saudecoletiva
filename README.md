@@ -5,7 +5,7 @@
 
 Rotina para construção e atualização do banco
 
-Passo 1: Gerar uma lista de páginas (url) de busca no google scholar para cada periódico da área de saúde coletiva indicado.
+Passo 1: Gerar uma lista de páginas (url) de busca no Google Scholar para cada periódico da área de saúde coletiva indicado.
 Usar o código em python disponível em https://colab.research.google.com/drive/1xDQcNQvGk0LWT19pMT6s3b36z3Ikuy_t?usp=sharing
 Obs: na última atualização, foi considerado o arquivo base do qualis 2017/2020: https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/QUALIS_saude_coletiva_2017-2020.xlsx
 
@@ -23,7 +23,7 @@ O banco pode ser constantemente atualizado com inclusão de novas revistas:
 2) Automatizado: cada revista nova é adicionada ao banco inicial das revistas da area de saude coletiva (QUALIS_saude_coletiva_2017-2020) e o processo completo é repetido
 
 # Última versão:
-Banco final disponível atualizado em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
+Banco final disponível atualizado em 06/09/2025 com o status do índice H5 da Google Scholar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
 
 # Como citar
 Zimmermann IR. h5SaudeColetiva: Repositório de dados e códigos para a construção do banco de índice h5 (Google Scholar) na área da Saúde Coletiva [Internet]. GitHub; 2025. Disponível em: https://github.com/ivanzricardo/h5saudecoletiva/
