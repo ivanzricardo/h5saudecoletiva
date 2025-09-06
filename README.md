@@ -1,7 +1,8 @@
 # h5saudecoletiva
-#Repositório de dados e códigos para a construção do banco de índice h5 (Google scholar) na área da Saúde Coletiva
+# Repositório de dados e códigos para a construção do banco de índice h5 (Google scholar) na área da Saúde Coletiva
 
-Última atualização: 06/09/2025 Contato: ivanzricardo@gmail.com
+# Última atualização: 06/09/2025 
+# Contato: ivanzricardo@gmail.com
 
 Rotina para construção e atualização do banco
 
@@ -17,9 +18,11 @@ Obs: na última atualização, foi utilizado arquivo gerado: https://github.com/
 Passo 3: fazer a raspagem do código nos arquivos locais
 Usar a linguagem R para este passo (ou python, se preferir): https://raw.githubusercontent.com/ivanzricardo/h5saudecoletiva/refs/heads/main/Script_H5saudecoletiva.R
 
-#Última versão do banco final disponível foi atualizada em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
-
-#Atualizações: o banco pode ser constantemente atualizado com inclusão de novas revistas:
+# Atualizações: 
+O banco pode ser constantemente atualizado com inclusão de novas revistas:
 1) Manualmente (rápido): cada registro pode ser adicionado ao banco final após consulta manual na página da Google schoolar
 2) Automatizado: cada revista nova é adicionada ao banco inicial das revistas da area de saude coletiva (QUALIS_saude_coletiva_2017-2020) e o processo completo é repetido
+
+# Última versão:
+Banco final disponível foi atualizada em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
 
