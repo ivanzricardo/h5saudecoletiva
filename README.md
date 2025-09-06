@@ -1,9 +1,8 @@
 # h5saudecoletiva
 #Repositório de dados e códigos para a construção do banco de índice h5 (Google scholar) na área da Saúde Coletiva
-
-Rotina para construção e atualização do banco de índice h5 na área da saúde coletiva
-
 Última atualização: 06/09/2025 Contato: ivanzricardo@gmail.com
+
+Rotina para construção e atualização do banco
 
 Passo 1: Gerar uma lista de páginas (url) de busca no google scholar para cada periódico da área de saúde coletiva indicado.
 Usar o código em python disponível em https://colab.research.google.com/drive/1xDQcNQvGk0LWT19pMT6s3b36z3Ikuy_t?usp=sharing
