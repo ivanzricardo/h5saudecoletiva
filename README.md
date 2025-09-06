@@ -26,5 +26,5 @@ O banco pode ser constantemente atualizado com inclusão de novas revistas:
 Banco final disponível atualizado em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
 
 # Como citar
-
+Zimmermann IR. h5SaudeColetiva: Repositório de dados e códigos para a construção do banco de índice h5 (Google Scholar) na área da Saúde Coletiva [Internet]. GitHub; 2025. Disponível em: https://github.com/ivanzricardo/h5saudecoletiva/
 
