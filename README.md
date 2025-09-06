@@ -2,6 +2,7 @@
 ##Repositório de dados e códigos para a construção do banco de índice h5 (Google scholar) na área da Saúde Coletiva
 
 Rotina para construção e atualização do banco de índice h5 na área da saúde coletiva
+
 Última atualização: 06/09/2025 Contato: ivanzricardo@gmail.com
 
 Passo 1: Gerar uma lista de páginas (url) de busca no google scholar para cada periódico indicado na última publicação do Qualis (201/-2020).
