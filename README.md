@@ -15,4 +15,9 @@ Salvar os outputs (htmls) em uma pasta local
 Obs: na última atualização, foi utilizado arquivo gerado: https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/urls_h5.txt
 
 Passo 3: fazer a raspagem do código nos arquivos locais
-Usar a linguagem R para este passo (ou python, se preferir): inserir link do código
+Usar a linguagem R para este passo (ou python, se preferir): https://raw.githubusercontent.com/ivanzricardo/h5saudecoletiva/refs/heads/main/Script_H5saudecoletiva.R
+
+#Atualizações: o banco pode ser constantemente atualizado com inclusão de novas revistas:
+1) Manualmente (rápido): cada registro pode ser adicionado ao banco final após consulta manual na página da Google schoolar
+2) Automatizado: cada revista nova é adicionada ao banco inicial das revistas da area de saude coletiva (QUALIS_saude_coletiva_2017-2020) e o processo completo é repetido
+
