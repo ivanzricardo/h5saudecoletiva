@@ -23,5 +23,8 @@ O banco pode ser constantemente atualizado com inclusão de novas revistas:
 2) Automatizado: cada revista nova é adicionada ao banco inicial das revistas da area de saude coletiva (QUALIS_saude_coletiva_2017-2020) e o processo completo é repetido
 
 # Última versão:
-Banco final disponível foi atualizada em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
+Banco final disponível atualizado em 06/09/2025 com o status do índice H5 da Google Schoolar cobrindo artigos publicados entre 2020 e 2024 (inclusivos), baseadas em citações de todos os artigos indexados no Google Scholar até julho de 2025 (https://scholar.google.com/intl/en/scholar/metrics.html)
+
+# Como citar
+
 
