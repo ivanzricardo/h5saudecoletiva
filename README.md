@@ -21,7 +21,7 @@ A partir de um arquivo de texto (.txt) com a lista de todas as urls geradas, sã
 Para isso, sugere-se usar a ferramenta "Download HTML from URLs" (https://apify.com/mtrunkat/url-list-download-html) e salvar os outputs (htmls) em uma pasta local.
 Obs: na última atualização, foi utilizado o seguinte arquivo de url: https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/urls_h5.txt
 
-### Passo 3: Fazer a mineração dos dados nos arquivos html locais
+### Passo 3: Fazer a raspagem dos dados nos arquivos html locais
 
 Pode-se usar a linguagem R para este passo (ou python, se preferir). 
 Obs: na última atualização, foi utilizado o seguinte script em R: https://raw.githubusercontent.com/ivanzricardo/h5saudecoletiva/refs/heads/main/Script_H5saudecoletiva.R
