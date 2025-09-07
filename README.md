@@ -5,7 +5,7 @@
 
 Rotina para construção e atualização do banco
 
-Passo 1: Gerar uma lista de páginas (url) de busca no Google Scholar para cada periódico da área de saúde coletiva indicado.
+### Passo 1: Gerar uma lista de páginas (url) de busca no Google Scholar para cada periódico da área de saúde coletiva indicado.
 Usar o código em python disponível em https://colab.research.google.com/drive/1xDQcNQvGk0LWT19pMT6s3b36z3Ikuy_t?usp=sharing
 Obs: na última atualização, foi considerado o arquivo base do qualis 2017-2020 disponível na plataforma Sucupira: https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/QUALIS_saude_coletiva_2017-2020.xlsx
 
