@@ -24,7 +24,7 @@ Obs: na última atualização, foi utilizado o seguinte arquivo de url: https://
 ### Passo 3: Fazer a raspagem dos dados nos arquivos html locais
 
 Pode-se usar a linguagem R para este passo (ou python, se preferir). 
-Obs: na última atualização, foi utilizado o seguinte script em R: https://raw.githubusercontent.com/ivanzricardo/h5saudecoletiva/refs/heads/main/Script_H5saudecoletiva.R
+Obs: na última atualização, foi utilizado o seguinte script em R: https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/Script_H5saudecoletiva.v1.1.R
 
 # Atualizações: 
 O banco pode ser constantemente atualizado com inclusão de novas revistas:
