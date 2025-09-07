@@ -4,7 +4,7 @@
 #Última atualização: 06/09/2025. #Contato: ivanzricardo@gmail.com
 
 ## Percentil > 60: 
-De acordo com a última atualização do banco de dados do índice H5 (https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/Percentil_h5_Saude_Coletiva_2025.xlsx) , um índice h5 de 24 delimita o percentil de 60 no grupo de periódicos da área de Saúde Coletiva 
+De acordo com a última atualização do banco de dados do índice H5 (https://github.com/ivanzricardo/h5saudecoletiva/raw/refs/heads/main/Percentil_h5_Saude_Coletiva_2025.xlsx) , um índice h5 = 24 delimita o percentil de 60 no grupo de periódicos da área de Saúde Coletiva 
 
 ### Rotina para construção e atualização do banco
 
